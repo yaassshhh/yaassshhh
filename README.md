@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **MERN-stack, python, C++**
+- 💬 Ask me about **MERN-stack, python, C++, AWS**
 
 - 📫 How to reach me **yashrajnigam000@gmail.com**
 
