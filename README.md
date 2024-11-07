@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashraj Nigam</h1>
 <h3 align="center">A passionate Fullstack Software developer from India.</h3>
 
-- 💬 Ask me about **MERN-stack, python, C++, AWS**
+- 💬 Ask me about **MERN-stack, Java-Fullstack, python, C++, AWS**
 
 - 📫 How to reach me **yashrajnigam000@gmail.com**
 
